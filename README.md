@@ -4,7 +4,7 @@
 
 - Node js
 - npm (node package manager)
-- package bundler
+- parcel bundler
 
 ## To Build
 
