@@ -1,0 +1,24 @@
+{
+  "name": "cmo-solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html && parcel watch index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "mathjax": "^3.0.0",
+    "preact": "^10.0.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-router-dom": "^5.1.2"
+  }
+}

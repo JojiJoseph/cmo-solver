@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+.solver {
+  /* border: 1px solid black; */
+  padding: 10px;
+}
+
+.cell {
+  width: 50px;
+  border: 1px solid #e0e0e0;
+}
+
+.variable-container:hover {
+  border: 1px solid #e0e0e0;
+  background: #fafafa;
+}
+
+.variable-container {
+  padding: 5px;
+}
+
+.button-solve {
+  margin: 0 auto;
+  width: 100px;
+  font-size: 16px;
+}
+
+.variable-title {
+  text-decoration: underline;
+}
