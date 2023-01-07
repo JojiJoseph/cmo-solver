@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "cssnano": "^5.1.14",
-    "jest": "^24.9.0"
+    "jest": "^29.3.1"
   },
   "dependencies": {
     "mathjax": "^3.0.0",
